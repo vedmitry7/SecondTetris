@@ -94,7 +94,7 @@ public class Figure {
     }
 
     private void moveDown(){
-
+//test
         for (Block block:blocks
                 ) {
             block.setX(block.getX()+1);
