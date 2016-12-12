@@ -92,7 +92,7 @@ public class Figure {
     public boolean isLanded() {
         return isLanded;
     }
-
+//test
     private void moveDown(){
 
         for (Block block:blocks
